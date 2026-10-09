@@ -11,16 +11,18 @@ These CSV files are derived from the six-donor atlas used by the R code in this 
 
 ## Brain regions
 
+- [`regions_presence.csv`](regions_presence.csv): one row per distinct sampled structure across all six brains. It gives `structure_id`, `structure_acronym`, `structure_name`, six `Donor1`–`Donor6` columns (`TRUE` if sampled in that donor), and `donor_count`.
 - [`regions/Donor1_samples.csv`](regions/Donor1_samples.csv) through [`regions/Donor6_samples.csv`](regions/Donor6_samples.csv): one row per sampled `well_id`, with its `structure_id`, `structure_acronym`, and `structure_name`.
 - [`regions/Donor1.csv`](regions/Donor1.csv) through [`regions/Donor6.csv`](regions/Donor6.csv): one row per distinct annotated structure in a donor, with `sample_count` giving the number of sampled wells assigned to it.
 - [`summary.csv`](summary.csv): donor-level gene, probe, sample, and region counts. `same_probe_annotation_as_donor1` checks both probe IDs and gene symbols against Donor1's annotation.
 
-The same named structure may have several sampled wells. Region names and identifiers come from `SampleAnnot`. A region's presence in these files means it was sampled, not that it was statistically selected by PGL.
+The same named structure may have several sampled wells. Region names and identifiers come from `SampleAnnot`. A region's presence in these files means it was **sampled**, not that it was statistically selected by PGL. The catalog covers the sampled structures in this atlas, not every anatomical region that exists in a human brain.
 
 ## Questions to ask with an AI assistant
 
 - "Is `APOE` listed for all six donors? Show the matching rows and probe counts."
 - "Which sampled structures contain 'hippocampus' in Donor3? Distinguish unique structures from individual wells."
+- "Which donors contain this `structure_name`? Use `regions_presence.csv` and report its `structure_id`."
 - "Compare the number of sampled wells for a named structure across the six donor files."
 
 Ask the assistant to cite the specific CSV files and rows it used. For a biological interpretation of PGL results, also provide the input gene list and the result CSV; coverage files alone cannot establish significance.

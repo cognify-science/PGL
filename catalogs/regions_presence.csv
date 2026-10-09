@@ -1,0 +1,415 @@
+"structure_id","structure_acronym","structure_name","Donor1","Donor2","Donor3","Donor4","Donor5","Donor6","donor_count"
+4254,"CA1","CA1 field, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4263,"CA1","CA1 field, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4255,"CA2","CA2 field, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4264,"CA2","CA2 field, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4256,"CA3","CA3 field, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4265,"CA3","CA3 field, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4257,"CA4","CA4 field, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4266,"CA4","CA4 field, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4739,"He-Crus I","Crus I, left, lateral hemisphere",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4723,"PV-Crus I","Crus I, left, paravermis",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4772,"He-Crus I","Crus I, right, lateral hemisphere",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4756,"PV-Crus I","Crus I, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4740,"He-Crus II","Crus II, left, lateral hemisphere",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4724,"PV-Crus II","Crus II, left, paravermis",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4773,"He-Crus II","Crus II, right, lateral hemisphere",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4757,"PV-Crus II","Crus II, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9450,"EW","Edinger-Westphal nucleus, left",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2
+9451,"EW","Edinger-Westphal nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4166,"HG","Heschl's gyrus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4167,"HG","Heschl's gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4700,"Ve-I-II","I-II",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,3
+4701,"Ve-III","III",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4734,"He-III","III, left, lateral hemisphere",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,2
+4718,"PV-III","III, left, paravermis",TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,4
+4751,"PV-III","III, right, paravermis",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4702,"Ve-IV","IV",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4735,"He-IV","IV, left, lateral hemisphere",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4719,"PV-IV","IV, left, paravermis",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4752,"PV-IV","IV, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4711,"Ve-IX","IX",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4744,"He-IX","IX, left, lateral hemisphere",FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,2
+4728,"PV-IX","IX, left, paravermis",TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,5
+4761,"PV-IX","IX, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4703,"Ve-V","V",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4736,"He-V","V, left, lateral hemisphere",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4720,"PV-V","V, left, paravermis",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4753,"PV-V","V, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4705,"Ve-VI","VI",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4738,"He-VI","VI, left, lateral hemisphere",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4722,"PV-VI","VI, left, paravermis",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4771,"He-VI","VI, right, lateral hemisphere",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4755,"PV-VI","VI, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4706,"Ve-VIIAf","VIIAf",TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,3
+4707,"Ve-VIIAt","VIIAt",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4708,"Ve-VIIB","VIIB",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4741,"He-VIIB","VIIB, left, lateral hemisphere",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4725,"PV-VIIB","VIIB, left, paravermis",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4774,"He-VIIB","VIIB, right, lateral hemisphere",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4758,"PV-VIIB","VIIB, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4709,"Ve-VIIIA","VIIIA",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4742,"He-VIIIA","VIIIA, left, lateral hemisphere",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4726,"PV-VIIIA","VIIIA, left, paravermis",TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,5
+4775,"He-VIIIA","VIIIA, right, lateral hemisphere",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4759,"PV-VIIIA","VIIIA, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4710,"Ve-VIIIB","VIIIB",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+4743,"He-VIIIB","VIIIB, left, lateral hemisphere",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4727,"PV-VIIIB","VIIIB, left, paravermis",TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,5
+4760,"PV-VIIIB","VIIIB, right, paravermis",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4713,"Ve-X","X",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,3
+4746,"He-X","X, left, lateral hemisphere",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4730,"PV-X","X, left, paravermis",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9137,"6","abducens nucleus, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9138,"6","abducens nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4329,"ATZ","amygdalohippocampal transition zone, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4335,"ATZ","amygdalohippocampal transition zone, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4114,"AnG-i","angular gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4113,"AnG-s","angular gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4117,"AnG-i","angular gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4116,"AnG-s","angular gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4395,"DTA","anterior group of nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4450,"DTA","anterior group of nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4598,"AHA","anterior hypothalamic area, left",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2
+4629,"AHA","anterior hypothalamic area, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4054,"AOrG","anterior orbital gyrus, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4055,"AOrG","anterior orbital gyrus, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+9520,"Arc","arcuate nucleus of medulla, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9521,"Arc","arcuate nucleus of medulla, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4644,"ARH","arcuate nucleus of the hypothalamus, left",FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,3
+4659,"ARH","arcuate nucleus of the hypothalamus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4308,"nbM","basal nucleus of meynert, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4342,"BLA","basolateral nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4346,"BLA","basolateral nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4351,"BMA","basomedial nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4355,"BMA","basomedial nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4313,"BST","bed  nucleus of stria terminalis, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4282,"BCd","body of caudate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4286,"BCd","body of caudate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4437,"ILc","caudal group of intralaminar nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4492,"ILc","caudal group of intralaminar nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9525,"CGS","central glial substance",TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,4
+10148,"CGPo","central gray of the pons, left",FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,2
+10149,"CGPo","central gray of the pons, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9004,"CGMB","central gray substance of midbrain, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9005,"CGMB","central gray substance of midbrain, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9589,"CMRt","central medullary reticular group, left",TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,4
+9593,"CMRt","central medullary reticular group, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4360,"CeA","central nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4363,"CeA","central nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9708,"CPLV","choroid plexus of the lateral ventricle",FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,3
+4224,"CgGf-i","cingulate gyrus, frontal part, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4223,"CgGf-s","cingulate gyrus, frontal part, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4227,"CgGf-i","cingulate gyrus, frontal part, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4226,"CgGf-s","cingulate gyrus, frontal part, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4231,"CgGp-i","cingulate gyrus, parietal part, left, inferior bank of gyrus",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4230,"CgGp-s","cingulate gyrus, parietal part, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4234,"CgGp-i","cingulate gyrus, parietal part, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4233,"CgGp-s","cingulate gyrus, parietal part, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4238,"CgGr-i","cingulate gyrus, retrosplenial part, left, inferior bank of gyrus",FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,3
+4237,"CgGr-s","cingulate gyrus, retrosplenial part, left, superior bank of gyrus",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4241,"CgGr-i","cingulate gyrus, retrosplenial part, right, inferior bank of gyrus",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4240,"CgGr-s","cingulate gyrus, retrosplenial part, right, superior bank of gyrus",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9241,"cgb","cingulum bundle, left",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+9242,"cgb","cingulum bundle, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4322,"Cl","claustrum, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4323,"Cl","claustrum, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9529,"8Co","cochlear nuclei, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9534,"8Co","cochlear nuclei, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+9222,"cc","corpus callosum",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4367,"COMA","cortico-medial group, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4371,"COMA","cortico-medial group, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9543,"Cu","cuneate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9544,"Cu","cuneate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9020,"CnF","cuneiform nucleus, left",FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,4
+9024,"CnF","cuneiform nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4186,"Cun-pest","cuneus, left, peristriate",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4187,"Cun-str","cuneus, left, striate",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4189,"Cun-pest","cuneus, right, peristriate",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4190,"Cun-str","cuneus, right, striate",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4258,"DG","dentate gyrus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4267,"DG","dentate gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4782,"Dt","dentate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4787,"Dt","dentate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4440,"LGd","dorsal lateral geniculate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4495,"LGd","dorsal lateral geniculate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9546,"10","dorsal motor nucleus of the vagus, left",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+9547,"10","dorsal motor nucleus of the vagus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4641,"DMH","dorsomedial hypothalamic nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4783,"Emb","emboliform nucleus, left",TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,2
+4788,"Emb","emboliform nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9143,"7","facial motor nucleus, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9144,"7","facial motor nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4784,"Fas","fastigial nucleus, left",TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,2
+4789,"Fas","fastigial nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4079,"fro","frontal operculum, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4080,"fro","frontal operculum, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4891,"FPi","frontal pole, left, inferior aspect",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4892,"FPm","frontal pole, left, medial aspect",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4890,"FP-s","frontal pole, left, superior aspect",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4895,"FPi","frontal pole, right, inferior aspect",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4896,"FPm","frontal pole, right, medial aspect",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4894,"FP-s","frontal pole, right, superior aspect",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4160,"FuG-cos","fusiform gyrus, left, bank of cos",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4158,"FuG-its","fusiform gyrus, left, bank of the its",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4159,"FuG-l","fusiform gyrus, left, lateral bank of gyrus",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+4164,"FuG-cos","fusiform gyrus, right, bank of cos",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4162,"FuG-its","fusiform gyrus, right, bank of the its",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4163,"FuG-l","fusiform gyrus, right, lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9598,"GiRt","gigantocellular group, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9604,"GiRt","gigantocellular group, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4785,"Glo","globose nucleus, left",TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,3
+4790,"Glo","globose nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4295,"GPe","globus pallidus, external segment, left",TRUE,TRUE,TRUE,FALSE,TRUE,TRUE,5
+4298,"GPe","globus pallidus, external segment, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4296,"GPi","globus pallidus, internal segment, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4299,"GPi","globus pallidus, internal segment, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9555,"Gr","gracile nucleus, left",TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,3
+9556,"Gr","gracile nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4048,"GRe","gyrus rectus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4049,"GRe","gyrus rectus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4280,"HCd","head of caudate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4284,"HCd","head of caudate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9558,"12","hypoglossal nucleus, left",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+9559,"12","hypoglossal nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9103,"IC","inferior colliculus, left",FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,4
+4042,"opIFG","inferior frontal gyrus, opercular part, left",TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,4
+4043,"opIFG","inferior frontal gyrus, opercular part, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4045,"orIFG","inferior frontal gyrus, orbital part, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4046,"orIFG","inferior frontal gyrus, orbital part, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4039,"trIFG","inferior frontal gyrus, triangular part, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4040,"trIFG","inferior frontal gyrus, triangular part, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4208,"IOG-i","inferior occipital gyrus, left, inferior bank of gyrus",FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,5
+4207,"IOG-s","inferior occipital gyrus, left, superior bank of gyrus",FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,5
+4211,"IOG-i","inferior occipital gyrus, right, inferior bank of gyrus",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4210,"IOG-s","inferior occipital gyrus, right, superior bank of gyrus",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9561,"IO","inferior olivary complex, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9565,"IO","inferior olivary complex, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4901,"IRoG","inferior rostral gyrus, left",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4902,"IRoG","inferior rostral gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4151,"ITG-mts","inferior temporal gyrus, left, bank of mts",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4149,"ITG-its","inferior temporal gyrus, left, bank of the its",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4150,"ITG-l","inferior temporal gyrus, left, lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4155,"ITG-mts","inferior temporal gyrus, right, bank of mts",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4153,"ITG-its","inferior temporal gyrus, right, bank of the its",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4154,"ITG-l","inferior temporal gyrus, right, lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9016,"ICjl","interstitial nucleus of Cajal, left",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2
+9017,"ICjl","interstitial nucleus of Cajal, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4409,"DTLd","lateral group of nuclei, left, dorsal division",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4417,"DTLv","lateral group of nuclei, left, ventral division",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4464,"DTLd","lateral group of nuclei, right, dorsal division",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4472,"DTLv","lateral group of nuclei, right, ventral division",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4524,"Hl","lateral habenular nucleus, left",FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,2
+4529,"Hl","lateral habenular nucleus, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4596,"LHA","lateral hypothalamic area, anterior region, left",FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,4
+4627,"LHA","lateral hypothalamic area, anterior region, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+13005,"LHM","lateral hypothalamic area, mammillary region, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+13006,"LHM","lateral hypothalamic area, mammillary region, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+13008,"LHT","lateral hypothalamic area, tuberal region, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4675,"LM","lateral mammillary nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+9614,"LMRt","lateral medullary reticular group, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9619,"LMRt","lateral medullary reticular group, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4379,"LA","lateral nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4382,"LA","lateral nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4060,"LOrG","lateral orbital gyrus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4061,"LOrG","lateral orbital gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9146,"LPB","lateral parabrachial nucleus, left",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+9147,"LPB","lateral parabrachial nucleus, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+10151,"LTu","lateral tuberal nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4193,"LiG-pest","lingual gyrus, left, peristriate",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4194,"LiG-str","lingual gyrus, left, striate",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4196,"LiG-pest","lingual gyrus, right, peristriate",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4197,"LiG-str","lingual gyrus, right, striate",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9149,"LC","locus ceruleus, left",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+9150,"LC","locus ceruleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4270,"LIG","long insular gyri, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4271,"LIG","long insular gyri, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4671,"MB","mammillary body, left",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4685,"MB","mammillary body, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4444,"MG","medial geniculate complex, left",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4499,"MG","medial geniculate complex, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4400,"DTM","medial group of nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4455,"DTM","medial group of nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4523,"Hm","medial habenular nucleus, left",FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,1
+4528,"Hm","medial habenular nucleus, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4672,"MM","medial mammillary nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4051,"MOrG","medial orbital gyrus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4052,"MOrG","medial orbital gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9152,"MPB","medial parabrachial nucleus, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9153,"MPB","medial parabrachial nucleus,right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9455,"MBRa","midbrain raphe nuclei",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9456,"MBRa","midbrain raphe nuclei, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+9019,"MBRF","midbrain reticular formation, left",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+9023,"MBRF","midbrain reticular formation, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4031,"MFG-i","middle frontal gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4030,"MFG-s","middle frontal gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4034,"MFG-i","middle frontal gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4033,"MFG-s","middle frontal gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4143,"MTG-i","middle temporal gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4142,"MTG-s","middle temporal gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4146,"MTG-i","middle temporal gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4145,"MTG-s","middle temporal gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9206,"Mo5","motor nucleus of trigeminal nerve, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9213,"Mo5","motor nucleus of trigeminal nerve, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4291,"Acb","nucleus accumbens, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4292,"Acb","nucleus accumbens, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9048,"Dk","nucleus of Darkschewitsch, left",FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,2
+4310,"DBv","nucleus of the diagonal band, left, horizontal division",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4311,"DBh","nucleus of the diagonal band, left, vertical division",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+9155,"SubC","nucleus subceruleus, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9156,"SubC","nucleus subceruleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4910,"OPi","occipital pole, left, inferior aspect",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1
+4911,"OPl","occipital pole, left, lateral aspect",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1
+4909,"OPs","occipital pole, left, superior aspect",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1
+4201,"OTG-i","occipito-temporal gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4200,"OTG-s","occipito-temporal gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4204,"OTG-i","occipito-temporal gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4203,"OTG-s","occipito-temporal gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9031,"3","oculomotor nuclear complex, left",TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,3
+9039,"3","oculomotor nuclear complex, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+10145,"OlfT","olfactory tubercle, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4597,"PalHy","pallidohypothalamic nucleus, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4072,"PCLa","paracentral lobule, anterior part, left",FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,2
+4074,"PCLa-i","paracentral lobule, anterior part, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4073,"PCLa-s","paracentral lobule, anterior part, left, superior bank of gyrus",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+4077,"PCLa-i","paracentral lobule, anterior part, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4076,"PCLa-s","paracentral lobule, anterior part, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4128,"PCLp-cs","paracentral lobule, posterior part, left, bank of cingulate sulcus",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,1
+4127,"PCLp-l","paracentral lobule, posterior part, left, lateral bank of gyrus",FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,1
+4131,"PCLp-cs","paracentral lobule, posterior part, right, bank of cingulate sulcus",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4130,"PCLp-l","paracentral lobule, posterior part, right, lateral bank of gyrus",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4245,"PHG-cos","parahippocampal gyrus, left, bank of the cos",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4244,"PHG-l","parahippocampal gyrus, left, lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4248,"PHG-cos","parahippocampal gyrus, right, bank of the cos",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4247,"PHG-l","parahippocampal gyrus, right, lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4067,"PTG","paraterminal gyrus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4534,"Pa","paraventricular nuclei, left of thalamus, left",TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,3
+4537,"Pa","paraventricular nuclei, right of thalamus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4573,"PVH","paraventricular nucleus of the hypothalamus, left",FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,5
+4604,"PVH","paraventricular nucleus of the hypothalamus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4069,"PaOG","parolfactory gyri, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+4070,"PaOG","parolfactory gyri, right",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4648,"PeF","perifornical nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4532,"PIN","pineal gland",FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,1
+10143,"Pir","piriform cortex, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4178,"PLP","planum polare, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4179,"PLP","planum polare, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4172,"PLT","planum temporale, left",TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,4
+4173,"PLT","planum temporale, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9492,"Pn","pontine nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9493,"Pn","pontine nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9157,"RPn","pontine raphe nucleus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9158,"RPn","pontine raphe nucleus, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+9161,"PRF","pontine reticular formation, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9169,"PRF","pontine reticular formation, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4087,"PoG-cs","postcentral gyrus, left, bank of the central sulcus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4090,"PoG-pcs","postcentral gyrus, left, bank of the posterior central sulcus",TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,5
+4089,"PoG-il","postcentral gyrus, left, inferior lateral aspect of gyrus",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4088,"PoG-sl","postcentral gyrus, left, superior lateral aspect of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4092,"PoG-cs","postcentral gyrus, right, bank of the central sulcus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4095,"PoG-pcs","postcentral gyrus, right, bank of the posterior central sulcus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4094,"PoG-il","postcentral gyrus, right, inferior lateral aspect of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4093,"PoG-sl","postcentral gyrus, right, superior lateral aspect of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4428,"DTP","posterior group of nuclei, left",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4483,"DTP","posterior group of nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4679,"PHA","posterior hypothalamic area, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4693,"PHA","posterior hypothalamic area, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4057,"POrG","posterior orbital gyrus, left",FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,3
+4058,"POrG","posterior orbital gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4015,"PrG-cs","precentral gyrus, left, bank of the central sulcus",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4012,"PrG-prc","precentral gyrus, left, bank of the precentral sulcus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4014,"PrG-il","precentral gyrus, left, inferior lateral aspect of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4013,"PrG-sl","precentral gyrus, left, superior lateral aspect of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4020,"PrG-cs","precentral gyrus, right, bank of the central sulcus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4017,"PrG-prc","precentral gyrus, right, bank of the precentral sulcus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4019,"PrG-il","precentral gyrus, right, inferior lateral aspect of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4018,"PrG-sl","precentral gyrus, right, superior lateral aspect of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4121,"Pcu-i","precuneus, left, inferior lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4120,"Pcu-s","precuneus, left, superior lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4124,"Pcu-i","precuneus, right, inferior lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4123,"Pcu-s","precuneus, right, superior lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4542,"PrOR","preoptic region, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4556,"PrOR","preoptic region, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9079,"PTec","pretectal region",TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,3
+9207,"Pr5","principal sensory nucleus of trigeminal nerve, left",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+9214,"Pr5","principal sensory nucleus of trigeminal nerve, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4288,"Pu","putamen, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4289,"Pu","putamen, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9642,"RaM","raphe nuclei of medulla",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9054,"RN","red nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9057,"RN","red nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4506,"R","reticular nucleus of thalamus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4512,"R","reticular nucleus of thalamus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4432,"ILr","rostral group of intralaminar nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4487,"ILr","rostral group of intralaminar nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4301,"SptN","septal nuclei, left",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4304,"SptN","septal nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4273,"SIG","short insular gyri, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4274,"SIG","short insular gyri, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9677,"Sp5","spinal trigeminal nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9684,"Sp5","spinal trigeminal nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4063,"SCG","subcallosal cingulate gyrus, left",FALSE,TRUE,TRUE,TRUE,FALSE,TRUE,4
+4064,"SCG","subcallosal cingulate gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9022,"SubCn","subcuneiform nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,5
+9026,"SubCn","subcuneiform nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4251,"S","subiculum, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4260,"S","subiculum, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4307,"SI","substantia innominata, left",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4314,"SI","substantia innominata, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9074,"SNC","substantia nigra, pars compacta, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9077,"SNC","substantia nigra, pars compacta, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9075,"SNR","substantia nigra, pars reticulata, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9078,"SNR","substantia nigra, pars reticulata, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4518,"Sb","subthalamic nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4519,"Sb","subthalamic nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9115,"SC","superior colliculus, left",TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,4
+9123,"SC","superior colliculus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4022,"SFG","superior frontal gyrus, left",FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,1
+4024,"SFG-l","superior frontal gyrus, left, lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4023,"SFG-m","superior frontal gyrus, left, medial bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4027,"SFG-l","superior frontal gyrus, right, lateral bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4026,"SFG-m","superior frontal gyrus, right, medial bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4215,"SOG-i","superior occipital gyrus, left, inferior bank of gyrus",FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,5
+4214,"SOG-s","superior occipital gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4218,"SOG-i","superior occipital gyrus, right, inferior bank of gyrus",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+4217,"SOG-s","superior occipital gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9178,"SOC","superior olivary complex, left",TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,5
+9186,"SOC","superior olivary complex, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4099,"SPL-i","superior parietal lobule, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4098,"SPL-s","superior parietal lobule, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4102,"SPL-i","superior parietal lobule, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4101,"SPL-s","superior parietal lobule, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4898,"SRoG","superior rostral gyrus, left",FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,4
+4899,"SRoG","superior rostral gyrus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4136,"STG-i","superior temporal gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4135,"STG-l","superior temporal gyrus, left, lateral bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4139,"STG-i","superior temporal gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4138,"STG-l","superior temporal gyrus, right, lateral bank of gyrus",TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,1
+4669,"SuM","supramammillary nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+4107,"SMG-i","supramarginal gyrus, left, inferior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4106,"SMG-s","supramarginal gyrus, left, superior bank of gyrus",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4110,"SMG-i","supramarginal gyrus, right, inferior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4109,"SMG-s","supramarginal gyrus, right, superior bank of gyrus",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4593,"SO","supraoptic nucleus, left",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4624,"SO","supraoptic nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4281,"TCd","tail of caudate nucleus, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4285,"TCd","tail of caudate nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4904,"TP-i","temporal pole, left, inferior aspect",TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,4
+4905,"TP-m","temporal pole, left, medial aspect",TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,4
+4903,"TP-s","temporal pole, left, superior aspect",TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,5
+4907,"TP-i","temporal pole, right, inferior aspect",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4908,"TP-m","temporal pole, right, medial aspect",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4906,"TP-s","temporal pole, right, superior aspect",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4169,"TG","transverse gyri, left",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,5
+4170,"TG","transverse gyri, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9064,"4","trochlear nucleus, left",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+9065,"4","trochlear nucleus, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4667,"TM","tuberomammillary nucleus, left",FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,4
+9067,"VTA","ventral tegmental area, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9068,"VTA","ventral tegmental area, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4637,"VMH","ventromedial hypothalamic nucleus, left",FALSE,TRUE,TRUE,TRUE,TRUE,TRUE,5
+4652,"VMH","ventromedial hypothalamic nucleus, right",FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,1
+9698,"8Ve","vestibular nuclei, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+9703,"8Ve","vestibular nuclei, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2
+4507,"ZI","zona incerta, left",TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,6
+4513,"ZI","zona incerta, right",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,2

@@ -26,7 +26,7 @@ The same **29,130 gene symbols and 58,692 reference probes** are available in al
 | Donor5 | 470 | 187 |
 | Donor6 | 501 | 200 |
 
-Browse [`catalogs/README.md`](catalogs/README.md) for file descriptions, column definitions, and example AI queries. **Sampled** means expression data is present for the region; it does not imply that PGL found the region significant for any particular gene list.
+Browse the [combined region-presence table](catalogs/regions_presence.csv) to see all **414 distinct sampled structures** and which donor brains contain each one. [`catalogs/README.md`](catalogs/README.md) explains the files, columns, and example AI queries. **Sampled** means expression data is present for the region; it does not imply that PGL found the region significant for any particular gene list.
 
 ## Run the R analysis
 

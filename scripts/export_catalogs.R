@@ -31,6 +31,7 @@ reference <- unique(reference[!is.na(reference$gene_symbol) &
   nzchar(reference$gene_symbol) & !is.na(reference$probe_id), ])
 
 gene_sets <- list()
+region_catalogs <- list()
 summary_rows <- list()
 for (donor_name in donor_names) {
   donor <- atlas[[donor_name]]
@@ -74,6 +75,7 @@ for (donor_name in donor_names) {
   }
   write.csv(regions, file.path(output_dir, "regions", paste0(donor_name, ".csv")),
     row.names = FALSE, fileEncoding = "UTF-8")
+  region_catalogs[[donor_name]] <- regions
 
   same_probe_annotation <- identical(
     as.character(donor$Probe$probe_id),
@@ -90,6 +92,26 @@ for (donor_name in donor_names) {
   )
 }
 
+# One row per distinct sampled structure across the atlas. TRUE means that
+# donor has at least one annotated sample for that structure.
+region_fields <- c("structure_id", "structure_acronym", "structure_name")
+all_regions <- unique(do.call(rbind, lapply(region_catalogs,
+  function(regions) regions[, region_fields])))
+all_regions <- all_regions[order(all_regions$structure_name,
+  all_regions$structure_id), ]
+rownames(all_regions) <- NULL
+region_key <- function(regions) {
+  paste(regions$structure_id, regions$structure_acronym,
+    regions$structure_name, sep = "\u001f")
+}
+all_keys <- region_key(all_regions)
+for (donor_name in donor_names) {
+  all_regions[[donor_name]] <- all_keys %in% region_key(region_catalogs[[donor_name]])
+}
+all_regions$donor_count <- rowSums(all_regions[, donor_names])
+write.csv(all_regions, file.path(output_dir, "regions_presence.csv"),
+  row.names = FALSE, fileEncoding = "UTF-8")
+
 common_genes <- sort(Reduce(intersect, gene_sets))
 write.csv(data.frame(gene_symbol = common_genes),
   file.path(output_dir, "genes_common_all_donors.csv"),
@@ -97,4 +119,5 @@ write.csv(data.frame(gene_symbol = common_genes),
 write.csv(do.call(rbind, summary_rows), file.path(output_dir, "summary.csv"),
   row.names = FALSE, fileEncoding = "UTF-8")
 cat("Exported", length(common_genes), "genes common to all donors\n")
+cat("Exported", nrow(all_regions), "distinct sampled structures\n")
 print(do.call(rbind, summary_rows), row.names = FALSE)
