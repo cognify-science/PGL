@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.rda
+*.Rdata
+.env
+input.csv
+result.csv
+result.Rdata

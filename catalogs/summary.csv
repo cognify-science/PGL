@@ -1,0 +1,7 @@
+"donor","gene_count","matched_probe_count","sample_count","region_count","same_probe_annotation_as_donor1"
+"Donor1",29130,58692,946,327,TRUE
+"Donor2",29130,58692,893,348,TRUE
+"Donor3",29130,58692,363,158,TRUE
+"Donor4",29130,58692,529,185,TRUE
+"Donor5",29130,58692,470,187,TRUE
+"Donor6",29130,58692,501,200,TRUE

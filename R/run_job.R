@@ -1,0 +1,5 @@
+args <- commandArgs(trailingOnly = TRUE)
+if (length(args) != 4) stop("Expected input, atlas, CSV output, Rdata output")
+source(file.path(dirname(sub("^--file=", "", grep("^--file=", commandArgs(), value=TRUE))), "PGL.R"))
+GetROIs(args[1], args[2], args[3], args[4])
+if (!file.exists(args[3])) stop("GetROIs did not produce a CSV")
