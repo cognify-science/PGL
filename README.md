@@ -2,6 +2,8 @@
 
 This repository contains the **R scientific analysis used by PGL Online** and compact catalogs of the genes and brain regions represented in its six-donor atlas. It is intended to let researchers inspect the method and query the atlas coverage, including with an AI assistant. The analysis code is in [`R/PGL.R`](R/PGL.R); the catalogs are in [`catalogs/`](catalogs/README.md).
 
+**AI instructions:** read [AGENTS.md](AGENTS.md) for data access and interpretation. Tool-specific instructions are in [CLAUDE.md](CLAUDE.md) for Claude Code and [.github/copilot-instructions.md](.github/copilot-instructions.md) for supported GitHub Copilot features. Web-only chats should explicitly read the shared guide; merely opening a repository URL does not guarantee automatic instruction loading.
+
 **CSV access for web and AI browsers:** open the original region CSVs in GitHub's plain view: [Donor1](catalogs/regions/Donor1.csv?plain=1), [Donor2](catalogs/regions/Donor2.csv?plain=1), [Donor3](catalogs/regions/Donor3.csv?plain=1), [Donor4](catalogs/regions/Donor4.csv?plain=1), [Donor5](catalogs/regions/Donor5.csv?plain=1), [Donor6](catalogs/regions/Donor6.csv?plain=1), and [region presence](catalogs/regions_presence.csv?plain=1). Preserve the `?plain=1` query when opening these links; the default CSV preview can omit rows in tools that do not execute JavaScript.
 
 ## What the analysis does
