@@ -13,9 +13,9 @@ If a browser or AI tool sees only the header in GitHub's default CSV preview, op
 
 ## Brain regions
 
-- [`regions_presence.csv`](regions_presence.csv): one row per distinct sampled structure across all six brains. It gives `structure_id`, `structure_acronym`, `structure_name`, six `Donor1`–`Donor6` columns (`TRUE` if sampled in that donor), and `donor_count`.
-- [`regions/Donor1_samples.csv`](regions/Donor1_samples.csv) through [`regions/Donor6_samples.csv`](regions/Donor6_samples.csv): one row per sampled `well_id`, with its `structure_id`, `structure_acronym`, and `structure_name`.
-- [`regions/Donor1.csv`](regions/Donor1.csv) through [`regions/Donor6.csv`](regions/Donor6.csv): one row per distinct annotated structure in a donor, with `sample_count` giving the number of sampled wells assigned to it.
+- [`regions_presence.csv`](regions_presence.csv?plain=1): one row per distinct sampled structure across all six brains. It gives `structure_id`, `structure_acronym`, `structure_name`, six `Donor1`–`Donor6` columns (`TRUE` if sampled in that donor), and `donor_count`.
+- [`regions/Donor1_samples.csv`](regions/Donor1_samples.csv?plain=1) through [`regions/Donor6_samples.csv`](regions/Donor6_samples.csv?plain=1): one row per sampled `well_id`, with its `structure_id`, `structure_acronym`, and `structure_name`.
+- [`regions/Donor1.csv`](regions/Donor1.csv?plain=1) through [`regions/Donor6.csv`](regions/Donor6.csv?plain=1): one row per distinct annotated structure in a donor, with `sample_count` giving the number of sampled wells assigned to it.
 - [`summary.csv`](summary.csv): donor-level gene, probe, sample, and region counts. `same_probe_annotation_as_donor1` checks both probe IDs and gene symbols against Donor1's annotation.
 
 The same named structure may have several sampled wells. Region names and identifiers come from `SampleAnnot`. A region's presence in these files means it was **sampled**, not that it was statistically selected by PGL. The catalog covers the sampled structures in this atlas, not every anatomical region that exists in a human brain.

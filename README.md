@@ -2,6 +2,8 @@
 
 This repository contains the **R scientific analysis used by PGL Online** and compact catalogs of the genes and brain regions represented in its six-donor atlas. It is intended to let researchers inspect the method and query the atlas coverage, including with an AI assistant. The analysis code is in [`R/PGL.R`](R/PGL.R); the catalogs are in [`catalogs/`](catalogs/README.md).
 
+**CSV access for web and AI browsers:** open the original region CSVs in GitHub's plain view: [Donor1](catalogs/regions/Donor1.csv?plain=1), [Donor2](catalogs/regions/Donor2.csv?plain=1), [Donor3](catalogs/regions/Donor3.csv?plain=1), [Donor4](catalogs/regions/Donor4.csv?plain=1), [Donor5](catalogs/regions/Donor5.csv?plain=1), [Donor6](catalogs/regions/Donor6.csv?plain=1), and [region presence](catalogs/regions_presence.csv?plain=1). Preserve the `?plain=1` query when opening these links; the default CSV preview can omit rows in tools that do not execute JavaScript.
+
 ## What the analysis does
 
 1. Read a CSV with one exact gene symbol per row and no header. Symbols absent from the atlas do not contribute probes.
@@ -26,7 +28,7 @@ The same **29,130 gene symbols and 58,692 reference probes** are available in al
 | Donor5 | 470 | 187 |
 | Donor6 | 501 | 200 |
 
-Browse the [combined region-presence table](catalogs/regions_presence.csv) to see all **414 distinct sampled structures** and which donor brains contain each one. [`catalogs/README.md`](catalogs/README.md) explains the files, columns, and example AI queries. **Sampled** means expression data is present for the region; it does not imply that PGL found the region significant for any particular gene list.
+Browse the [combined region-presence table](catalogs/regions_presence.csv?plain=1) to see all **414 distinct sampled structures** and which donor brains contain each one. [`catalogs/README.md`](catalogs/README.md) explains the files, columns, and example AI queries. **Sampled** means expression data is present for the region; it does not imply that PGL found the region significant for any particular gene list.
 
 For automated access, [`catalogs/README.md`](catalogs/README.md) links to GitHub's full plain-text view of each donor CSV. The same catalogs are also available as [direct static CSV files](https://cognify-science.github.io/PGL/) without GitHub's interactive viewer. Use the `sample_count` column in each donor's region file for sampling questions.
 
