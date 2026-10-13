@@ -2,6 +2,8 @@
 
 These CSV files are derived from the six-donor atlas used by the R code in this repository. They describe **coverage**, not results of a PGL analysis. All CSVs are UTF-8 and include a header row.
 
+For direct CSV downloads without GitHub's interactive viewer, use the [static catalog links](https://cognify-science.github.io/PGL/).
+
 ## Genes
 
 - [`genes/Donor1.csv`](genes/Donor1.csv) through [`genes/Donor6.csv`](genes/Donor6.csv): one row per symbol available for analysis in that donor. `gene_symbol` is the exact case-sensitive symbol used by the R code; `probe_count` is the number of distinct Donor1 reference probe IDs that occur in that donor's normalized expression matrix. All six current files contain the same 29,130 symbols and 58,692 probes.
