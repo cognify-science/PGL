@@ -28,7 +28,7 @@ The same **29,130 gene symbols and 58,692 reference probes** are available in al
 
 Browse the [combined region-presence table](catalogs/regions_presence.csv) to see all **414 distinct sampled structures** and which donor brains contain each one. [`catalogs/README.md`](catalogs/README.md) explains the files, columns, and example AI queries. **Sampled** means expression data is present for the region; it does not imply that PGL found the region significant for any particular gene list.
 
-The same CSV catalogs are available as [direct static files](https://cognify-science.github.io/PGL/) for browsers and AI tools that cannot read GitHub's interactive CSV viewer. The static links serve the CSV data itself; use the `sample_count` column in each donor's region file for sampling questions.
+For automated access, [`catalogs/README.md`](catalogs/README.md) links to GitHub's full plain-text view of each donor CSV. The same catalogs are also available as [direct static CSV files](https://cognify-science.github.io/PGL/) without GitHub's interactive viewer. Use the `sample_count` column in each donor's region file for sampling questions.
 
 ## Run the R analysis
 

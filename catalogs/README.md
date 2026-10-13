@@ -2,7 +2,7 @@
 
 These CSV files are derived from the six-donor atlas used by the R code in this repository. They describe **coverage**, not results of a PGL analysis. All CSVs are UTF-8 and include a header row.
 
-For direct CSV downloads without GitHub's interactive viewer, use the [static catalog links](https://cognify-science.github.io/PGL/).
+If a browser or AI tool sees only the header in GitHub's default CSV preview, open the full plain-text view of [Donor1](regions/Donor1.csv?plain=1), [Donor2](regions/Donor2.csv?plain=1), [Donor3](regions/Donor3.csv?plain=1), [Donor4](regions/Donor4.csv?plain=1), [Donor5](regions/Donor5.csv?plain=1), and [Donor6](regions/Donor6.csv?plain=1). These links show the original CSV rows on GitHub. For direct `text/csv` downloads, use the [static catalog links](https://cognify-science.github.io/PGL/).
 
 ## Genes
 
